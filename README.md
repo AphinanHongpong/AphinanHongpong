@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Aphinan's GitHub Banner](C:\Users\ACE\Desktop\pic\GitHubHeader.png)]
+
 🌱 I’m currently learning on  Python&nodeJs
 <br>
 💡 I'm studying at Rajamangala University of Technology Lanna, Faculty of Engineering, Department of Computer Engineering
