@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🌱 I’m currently learning on  Python&nodeJs
+💡 I'm studying at Rajamangala University of Technology Lanna, Faculty of Engineering, Department of Computer Engineering
+
 <!--
 **AphinanHongpong/AphinanHongpong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
