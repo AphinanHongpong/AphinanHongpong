@@ -3,7 +3,8 @@
 🌱 I’m currently learning on  Python&nodeJs
 <br>
 💡 I'm studying at Rajamangala University of Technology Lanna, Faculty of Engineering, Department of Computer Engineering
-
+// README.md
+![Github stats](https://github-readme-stats.vercel.app/api?username=AphinanHongpong&theme=highcontrast&show_icons=true&count_private=true)
 <!--
 **AphinanHongpong/AphinanHongpong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
